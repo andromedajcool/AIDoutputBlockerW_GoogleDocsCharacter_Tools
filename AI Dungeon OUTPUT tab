@@ -1,0 +1,24 @@
+//Copy and Paste this code into the OUTPUT tab in scripts
+const modifier = (text) => {
+    return {
+        text: ` ⛓️‍💥 `
+    };
+};
+// Don't modify this part
+modifier(text);
+
+
+// -----------------
+//     NOTES
+// -----------------
+/*-------------------------
+DO NOT INCLUDE THIS PART…
+!!! WARNING: as tempting as it may be to have it completely output nothing.
+text: ``
+WILL CREATE WARNINGS.
+You could have it export a space each time or a symbol to go through and delete later… but it CANNOT be nothing.
+
+text: `
+`
+Is a blank line. Which may or may not be what you’re looking for.
+-------------------------*/
